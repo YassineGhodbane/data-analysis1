@@ -1,6 +1,8 @@
 
-## Startup Expansion Data Analysis and Visualization
+# Startup Expansion Data Analysis and Visualization
 This repository contains the data analysis and visualization project focused on the expansion of a startup across various states. The analysis is performed using Python, and the visualizations are created using Power BI.
+
+## Dashbord Link: https://app.powerbi.com/groups/me/reports/29b22f3f-1eaa-4f71-8f61-58fe0199d498/0a8c1967a0581155b279?experience=power-bi
 
  ## Project Overview
 In this project, we analyzed the startup's expansion data to gain insights into key metrics such as profit, ROMS (Return on Marketing Spend), and revenue. The goal was to identify trends and patterns that could inform future business decisions.
